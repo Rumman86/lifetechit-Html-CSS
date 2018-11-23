@@ -1,0 +1,34 @@
+CTG-170 : 5th class : Multi page website creation
+
+Topics: 
+
+HTML Media Elements with Iframe (youtube,map) https://www.w3schools.com/html/html_media.asp
+
+Font Intregration https://www.w3schools.com/css/css3_fonts.asp
+
+CSS3 Transforms https://www.w3schools.com/css/css3_2dtransforms.asp
+
+CSS3 Transitions https://www.w3schools.com/css/css3_transitions.asp
+
+Design a Contct form https://www.w3schools.com/html/html_forms.asp
+
+CSS3 Attributes selector https://www.w3schools.com/css/css_attribute_selectors.asp
+
+
+Assignment 3 (Multi page website creation): https://drive.google.com/file/d/1AEEoraDCBhGCP0MWmS1V7u4DYJjM7oSt/view?usp=sharing
+
+Class video: https://youtu.be/9FPILbt_aTw
+
+======================================================================================================================================
+CTG-170 : 4th class : HTML Layout Design
+
+html block elements https://www.tutorialspoint.com/html/html_blocks.htmCSS Properties https://www.w3schools.com/cssref/Lets work make a layout using HTML 
+https://cdn.tutsplus.com/net/uploads/legacy/397_yourFirstdesign/images/2.jpgMake a nav bar using HTML and CSS 
+https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_blackBox Model 
+https://www.washington.edu/accesscomputing/webd2/student/unit3/images/boxmodel.gifCSS overflow Property 
+https://www.w3schools.com/CSSref/tryit.asp?filename=trycss_overflowCSS Layout - float and clear 
+https://www.w3schools.com/css/css_float.aspPosition Property https://www.w3schools.com/cssref/pr_class_position.asp
+Assignment 2: https://drive.google.com/open?id=1C9Wu-rWQ0pNFIfT4r3jYbXSKEQOhHIbh 
+
+Class Video: https://youtu.be/mITjOhozly0
+===========================================================================================================

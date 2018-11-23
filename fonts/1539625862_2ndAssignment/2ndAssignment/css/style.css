@@ -1,0 +1,180 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+.container{
+    width:930px;
+    background-color: #89AEBE;
+    margin: 0 auto;
+     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    
+        
+}
+.header{
+    width: auto;
+    height: 395px;
+    background-color: #ECECEC;
+}
+.companyname{
+    width: auto;
+    height: 105px;
+}
+.companyname h1{
+    text-align: center;
+    color: #822828;
+    font-family: sans-serif;
+    font-size: 40px;
+   
+}
+.companyname h4{
+    text-align: center;
+    color: #822828;
+   
+}
+.navbar{
+    width: auto;
+    height: 30px;
+    background-color: #303030;
+}
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+   float: left;
+    padding: 5px;
+     
+}
+.navbar ul li:hover{
+   background-color: #2ca1d3;
+ 
+}
+.navbar ul li a{
+   color: #ffffff;
+    
+    text-decoration: none;
+ 
+}
+
+.navbar ul li a:hover{
+   color: #a02424;
+ 
+}
+.slideshow{
+    width: auto;
+    height: 260px;
+    background-color: #89AEBE;  
+        
+}
+
+
+.bodycontent{  
+    
+}
+.ourservice{
+    width:300px;
+    height:400px;
+    background-color:#ECECEC;
+    padding:10px;
+    display: inline-block; 
+}
+
+
+
+.servicedetails{
+    width:300px;
+    height: 387px;
+    background-color:#ccd5d9;
+    display: inline-block;
+    border-radius: 10px;    
+}
+
+.servicedetails p{
+    margin-left: 7px;
+}
+
+.productdetails{
+    width:590px;
+    height:400px;
+    background-color:#ECECEC;
+    padding:10px ;
+    display: inline-block;
+    float: right;
+   
+    
+}
+
+.aboutproduct{
+    width:585px;
+    height:98px;
+    background-color:#CCD5D9;
+    display: inline-block; 
+    padding:2Px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.aboutproduct p{
+    margin-left: 7px;
+}
+.aboutproduct h4{
+    margin-left: 7px; 
+}
+
+.productitem{
+    width:585px;
+    height:273px;
+    background-color::#ECECEC;
+    display: inline-block;
+    padding: 2px;
+    border-radius: 10px;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+
+.salesinventory{
+    width:195px;
+    height:272px;
+    background-color:#9fd2e8;
+    display: inline-block;
+    border-radius: 10px; 
+    vertical-align: top;
+    overflow: hidden;
+}
+.hrmanagement{
+    width:195px;
+    height:272px;
+    background-color:#90c2d8;
+    display: inline-block;
+    border-radius: 10px; 
+    vertical-align: top;
+    overflow: hidden;
+}
+.hardwareservice{
+    width:185px;
+    height:272px;
+    background-color:#a4d5eb;
+    display: inline-block;
+    border-radius: 10px; 
+    vertical-align: top;
+    overflow: hidden;
+
+}
+.importentnote{
+    width: auto;
+    height: 50px;
+    background-color: #DCF7FE;
+}
+.footer{
+           width: auto;
+    height: 60px;
+    background-color: #89AEBE;
+}

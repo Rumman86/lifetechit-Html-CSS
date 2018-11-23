@@ -1,0 +1,8 @@
+1.Div tag
+2.Border
+3.Margin
+4.pading
+5.Block level Element
+6.Inline ELement.
+7.Table
+8.CSS ID CALL  and Class Call

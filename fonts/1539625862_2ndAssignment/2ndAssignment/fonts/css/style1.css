@@ -1,0 +1,64 @@
+
+#abc{color:black;
+	         }
+#abcd{color:red;
+	         }
+
+
+#container{
+	width:960px;
+	height:1420px;
+	border: solid 1px black;
+        margin:auto;
+	margin-left:100px;
+	padding:20px;
+}
+
+#header h1{
+	text-align:center;
+	font-size:30px;
+	color:#3e3932;
+}
+#img {                                                                                                                                                                                                                                                                                                               
+        display: block;
+        margin-left:700px;
+        margin-right:auto;
+	border: solid 1px black;
+	width:200px;
+	height:200px;
+	
+	
+}
+
+#address{
+	display: block;
+        margin-left:1px;
+        margin-right:1000px;
+        width:60%;
+	height:100px;
+	float: left;
+	text-align:left;
+	
+}
+
+ #edu{
+	 font-family:arial,sans-serif;
+	 border-collapse:collapse;
+	 width:80%;
+	 margin:auto;
+	
+	
+ }
+#edu td,th{
+	border:1px solid #dddddd;
+	text-align:left;
+	padding:8px;
+}
+ 
+ #edu tr{
+	background-color: white-space;
+	
+}
+}
+#content{}
+#footer{}

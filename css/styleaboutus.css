@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family:  'Lobster', cursive;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+
+.container{
+    width:960px;
+    background-color: darkgray; 
+    margin: 0 auto;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    }
+
+.header{
+    width: auto;
+}
+
+.header-top{
+ width: auto;
+ height: 80px;
+}
+.header-logo{
+    width: 430px;
+    height: 80px;
+    float: left;
+    background: #FFFFFF
+}
+.header-logo img{
+    width: 265px;
+}
+
+.header-nav{
+    height: 80px;
+    width: 530px;
+    float: right;
+    background: #d4c3c3   
+}
+
+
+.header-nav ul{
+    list-style: none;
+    float: right;
+}
+.header-nav ul li{
+    float: left;   
+}
+
+
+.header-nav ul li a{
+    display: block;
+    text-decoration: none;
+    padding:31px;
+    text-align: center;
+}
+
+.header-nav ul li a:hover{
+background-color: aliceblue;
+color: brown;
+}
+
+/*css comment*/
+.slideshow{
+    width: auto;
+    margin-top:10px;
+}
+
+.content{
+    width: auto;
+    height:800px;
+    background-color: azure;
+}
+
+
+.footer{
+    position: relative;
+    left: 0;
+    bottom:0px;
+    width: auto;
+    height: 80px; 
+}
+.footer p{
+  position: relative;
+  top: 50px;
+  text-align: center;
+  font-size: 12px;
+}
